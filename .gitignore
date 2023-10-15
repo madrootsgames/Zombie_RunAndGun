@@ -9,6 +9,10 @@ ZombieGame/[Bb]uild/
 ZombieGame/[Bb]uilds/
 ZombieGame/[Ll]ogs/
 ZombieGame/[Uu]ser[Ss]ettings/
+ZombieGame/[Aa]ssets/[Cc]orgiEngine
+ZombieGame/[Aa]ssets/[Pp]laymaker
+ZombieGame/[Aa]ssets/[Dd]OTweenPlaymakerActions
+ZombieGame/[Aa]ssets/[Ss]impleApocalypse
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 ZombieGame/[Aa]ssets/**/*.meta
